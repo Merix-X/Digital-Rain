@@ -1,0 +1,9 @@
+This app is one of the frontend mentors challenges. It is Geolocation tracker based on the IP address that starts with the user passing an IP address to get the basic details about it.
+
+## How does it work
+
+GEOIPIFY API is used to locate the IP address and then the location details are passed to MapBox API to get the customised map based on the information based on the arguments submitted.
+
+## Tool Used
+
+LeafletJS, MapBox APIs are used to feature map on the webpage. Additional functionalities such as customised map marker, zoom-in, zoom-out functionalities are provided through LeafletJS.
